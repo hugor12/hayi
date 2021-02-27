@@ -1,0 +1,214 @@
+*{
+   margin: 0px ;
+   padding: 0px ;
+}
+.gere{background-color: brown;
+
+}
+.peter{
+    background-color: blue;
+}
+ul{ 
+    margin-bottom: 0px !important;
+    padding-left: 0% !important;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    list-style: none;
+    background-color: gray;
+    line-height: 60px;
+}
+li{ 
+    font-size:30px;
+    color:honeydew;
+    display:inline-block;
+    width: 100%;
+    text-align: center;
+}
+.fode{
+    background-color: indigo
+
+}
+.carousel-inner{
+     height: 500px; 
+}
+.carousel-caption{
+    bottom:40% !important;
+    
+}
+image{
+    height: 500px;
+}
+.carousel-caption h5{
+    font-size: 40px;
+}
+.carousel-caption p{
+    font-size: 20px;
+}
+.tere{
+    margin-top: 30px;
+    text-align: center;
+}
+.tere p{
+    font-style: italic;
+}
+.bi-cart3{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.bi-laptop{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.bi-lock-fill{
+  font-size:60PX ;  
+  padding-bottom: 20px;
+}
+.zara{
+    display: flex;
+    justify-content:space-evenly;
+    margin-bottom:100px ;
+}
+.zara .fobore {
+    text-align: center;
+}
+i{
+    background-color: rgba(255, 208, 0, 0.877);
+    display: inline-block;
+    width: 120px; 
+    border-radius: 100%;
+    color: white;
+    font-weight:bold ;
+}
+.dodo h1{
+text-align: center;
+}
+.dodo p {
+    text-align: center; 
+    font-style: italic; 
+}
+.dodo{
+
+}
+ .ROBO{
+display:flex;
+margin: 0%!important;
+padding: 0%!important;
+width: 90%;
+}
+.ROBO > div{
+    flex:1 1 0;
+    margin: 5px;
+}
+.ROBO img{
+    width: 100%;
+}
+/* .dodo{
+    background-color: brown;
+} */
+.loli{
+    background-color: rgba(252, 250, 251, 0.945);
+
+}
+/* .ROBO img:hover{
+    display: block;
+    background-color: darkgoldenrod;
+    z-index: 999;
+
+
+} */
+
+
+
+
+
+
+/* .wera2 .rentre{
+    position:absolute;
+    display: none;
+    width: 300px;height:300px;
+    background: yellow;
+    opacity:0.7 ;
+    top:5px;
+    left: 6px;
+} */
+
+.tire, .tire2,.tire3{
+    position:relative;
+    margin: 0 auto;
+
+}
+.tire .rentre, .tire2 .rentre2,.tire3 .rentre3{
+    position:absolute;
+    top: 0%;
+    left: 0%;
+    opacity: 0.6;
+    width: 100%;height:300px;
+    background: yellow;
+ display: none; 
+}
+.tire .colombi p, .tire2 .colombi2 p,.tire3 .colombi3 p{
+    color: white;
+    font-size: 8rem;
+    font-weight: bold;
+    text-align: center;
+opacity: 1;
+}
+.colombi, .colombi2, .colombi3{
+    line-height:300px;
+    height: 300px;
+    
+}
+.toni{
+    background-image: url("cristina-gottardi-CSpjU6hYo_0-unsplash.jpg");
+ width: 100%; 
+ height: 600px; 
+ background-size: cover; 
+ background-position:center ; 
+ color:white;
+ text-align: center;
+}
+ .toni p{
+    margin-top: 30px;
+}
+.toni h1{
+    padding-top: 100px!important;
+    font-size: 60px;
+    font-weight: bold;
+}
+.yoro{
+    display: flex;
+}
+.yoro >div{
+    flex:1 1 0;
+} 
+.doloP{
+    position: relative;  
+
+}
+.doloP .dolo{
+    position:absolute;top:0%;right: 3%;
+  
+}
+.dolo input{ 
+    width:500px ;
+    height:48px ;
+}
+.nana{
+    position: relative;
+    
+}
+.nana textarea{
+    display: inline-block;
+position: absolute;top:0%;left:3%;
+}
+input[type="submit"]{
+    margin-top: 220px; 
+    background-color: rgba(255, 255, 0, 0.705);
+    color: white;
+    width:200px ;
+    height:60px ;
+    border-radius: 5px; 
+    font-size: 25px;
+    font-weight: bolder;
+}
